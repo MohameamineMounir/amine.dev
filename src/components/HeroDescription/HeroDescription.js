@@ -16,7 +16,7 @@ const HeroDescription = () => {
           <br />
           Developer based in Maroc, Khouribga 📍
         </p>
-        <a href="https://github.com/mohamed-amine-mounir" target="_blank">
+        <a href="https:https://github.com/MohameamineMounir" target="_blank">
           <svg
             id="icon1"
             xmlns="http://www.w3.org/2000/svg"

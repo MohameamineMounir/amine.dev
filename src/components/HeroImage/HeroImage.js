@@ -1,6 +1,4 @@
 import React from "react";
-// import myImage from "./tomas-removebg-preview.png";
-import myImage from "./back.jpg";
 import myimg2 from "./1 (2).png";
 import "./HeroImage.css";
 const HeroImage = () => {
